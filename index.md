@@ -59,7 +59,7 @@ Links:
 
   [Demo](https://www.youtube.com/watch?v=o4ksOzkczn0)
   
- ### Hoops
+### Hoops
  
  ![HOOPS_for_portfolio](https://user-images.githubusercontent.com/59441571/102479542-b22c7800-4067-11eb-95f9-4a22787a8b78.png)
 
