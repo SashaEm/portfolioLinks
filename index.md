@@ -2,8 +2,9 @@ My name is Sasha Em. I'm a Junior Unity Developer.
 My main specification is Hypercasual game development.
 I have several projects behind my back and work experience.
 
-## [My CV](https://drive.google.com/file/d/1a44Nm-3YPULLIENClG0fA46yXAGMErvt/view?usp=sharing)
+## CV
 
+[CV_SashaEm_December2020.pdf](https://github.com/SashaEm/portfolioLinks/files/5708886/CV_SashaEm_December2020.pdf)
 
 ## My projects:
 
