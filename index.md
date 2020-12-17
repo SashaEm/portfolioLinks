@@ -67,5 +67,7 @@ HOOPS is my first finished prototype. This is a retro basketball game.
 It has few levels and pretty fun gameplay.
 
 Links:
+
   [Demo](https://www.youtube.com/watch?v=_RFJOGzP8_Y)
+  
   [Game (PC)](https://ssem.itch.io/hoops)
