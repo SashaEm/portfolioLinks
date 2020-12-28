@@ -4,7 +4,7 @@ I have several projects behind my back and work experience.
 
 ## CV
 
-[CV_SashaEm_December2020.pdf](https://github.com/SashaEm/portfolioLinks/files/5708886/CV_SashaEm_December2020.pdf)
+[My Cv.pdf](https://github.com/SashaEm/portfolioLinks/files/5747282/my-cv.1.pdf)
 
 ## My projects:
 
