@@ -33,8 +33,6 @@ Links:
 
 ![BalloonDefenderPreview](https://user-images.githubusercontent.com/59441571/102472243-cae46000-405e-11eb-90cc-aef4f3e365dc.png)
 
-Balloon Defender is the project I'm currently working on.
-
 Main feature of this game is that it's a simple Tower Defense game.
 
 You earn money by destroying balloons, place turrets and earn more money.
