@@ -16,5 +16,4 @@ I have several projects behind my back and work experience.
 ![characters](https://user-images.githubusercontent.com/59441571/158235474-cc47d8a8-2308-49e0-8504-e7fd209da058.jpg)
 ![match3](https://user-images.githubusercontent.com/59441571/158235502-3bb90551-8344-44a3-b665-6597609a528f.jpg)
 ![icons08 copy](https://user-images.githubusercontent.com/59441571/158235804-ff06ae93-f41c-457d-b3cf-607a118622e3.jpg)
-![pet_sim](https://user-images.githubusercontent.com/59441571/158235813-7c2d6195-e99d-4f07-9ef6-552c17b960b3.jpg)
 ![hogs](https://user-images.githubusercontent.com/59441571/158235826-f9a7b4ba-589b-4178-ba99-e6bac8ecea57.jpg)
